@@ -1,4 +1,0 @@
-Isi dengan tautan repository GitHub public untuk Kriteria 1.
-
-Format:
-https://github.com/<GITHUB_USERNAME>/Eksperimen_SML_Frans
