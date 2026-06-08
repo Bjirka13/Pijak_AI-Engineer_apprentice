@@ -1,9 +1,0 @@
-name: ecologistic-shipment-delay-risk
-
-conda_env: conda.yaml
-
-entry_points:
-  main:
-    command: "python modelling.py"
-  tune:
-    command: "python modelling_tuning.py"

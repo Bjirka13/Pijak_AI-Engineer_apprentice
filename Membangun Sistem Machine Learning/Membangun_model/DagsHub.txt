@@ -1,9 +1,0 @@
-Isi dengan tautan DagsHub setelah run MLflow berhasil tersimpan online.
-
-Format:
-https://dagshub.com/<DAGSHUB_USERNAME>/<DAGSHUB_REPO>
-
-Secrets/env yang digunakan script:
-- DAGSHUB_REPO=<owner>/<repo>
-- DAGSHUB_USERNAME=<username>
-- DAGSHUB_TOKEN=<token>

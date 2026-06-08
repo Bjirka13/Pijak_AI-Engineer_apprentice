@@ -1,4 +1,0 @@
-Isi dengan tautan Docker Hub setelah workflow berhasil push image.
-
-Format:
-https://hub.docker.com/r/<DOCKERHUB_USERNAME>/shipment-delay-risk
